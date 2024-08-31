@@ -1,7 +1,7 @@
 # Reem Abdelaziz 🍉
 
 📚 Studied Computer Science at the University of Houston <br/>
-📊 Learned SEO and ventured into data science through my minor in Marketing and work in Marketing Communications. <br/>
+📊 Learned SEO and data science through my minor in Marketing and work in Marketing Communications. <br/>
 🐬 Delved into Data Science and Engineering <br/>
 🌱 Started learning front-end development with my [personal portfolio](https://reemdelziz.github.io)<br/>
 
